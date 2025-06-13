@@ -35,7 +35,7 @@ pip install gradio requests pillow langchain-core langchain-ollama
 
 ```
 
-Or, create a `requirements.txt` file with the following content and run `pip install -r requirements.txt`:
+Or, run `pip install -r requirements.txt`:
 
 ```
 gradio
@@ -97,7 +97,7 @@ langchain-ollama
 Execute the Python script from your terminal:
 
 ```
-python app.py  # or the name you gave the script
+python main.py  # or the name you gave the script
 
 ```
 
