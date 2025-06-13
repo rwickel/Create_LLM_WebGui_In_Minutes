@@ -2,6 +2,9 @@
 
 This project provides a simple and intuitive web-based chat interface for interacting with local language models hosted by **Ollama**. It leverages the Gradio library to create the UI and supports both text-only and multi-modal (text + image) conversations.
 
+![image](https://github.com/user-attachments/assets/32722a3f-2519-43fb-b2b9-236f8e7fde3f)
+
+
 ## Features
 
 -   **Direct Ollama Integration**: Connects directly to your local Ollama instance.
