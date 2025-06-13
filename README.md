@@ -74,7 +74,7 @@ langchain-ollama
     -   For a powerful text-only model, you could pull:
         
         ```
-        ollama pull llama3
+        ollama pull phi4:14b
         
         ```
         
@@ -101,7 +101,7 @@ python main.py  # or the name you gave the script
 
 ```
 
-Gradio will provide a local URL (usually `http://127.0.0.1:7860`). Open this URL in your web browser to start using the chat interface.
+Gradio will provide a local URL (usually `http://127.0.0.1:7860`) in your terminal. Open this URL in your web browser to start using the chat interface.
 
 ### Using the Interface
 
